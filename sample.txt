@@ -1,0 +1,13 @@
+App component 
+navbar component > same all pages
+search -> input & submit.-> data feach.-> clear button.
+user list -> all the list of users .
+UserItem -> individual usersuser detail -> get details of the users.
+Repolist -> List all the repo .
+repoItems -> individual repo.
+alert component -> simple component.
+
+https://api.github.com/users => github api
+
+
+https://api.github.com/search/users?q=text
